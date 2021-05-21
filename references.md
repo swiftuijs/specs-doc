@@ -4,6 +4,7 @@
 
 - [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+- [Syntax Highlight Guide for VSCode](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)
 - [gogocode](https://github.com/thx/gogocode)
 - [xstate state machine](https://github.com/davidkpiano/xstate)
 - [hookstate](https://github.com/avkonst/hookstate)
